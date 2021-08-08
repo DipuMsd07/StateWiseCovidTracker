@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/StateWiseCovidTracker/static/css/main.be991bb2.chunk.css",
+    "main.css": "/StateWiseCovidTracker/static/css/main.4f8be89b.chunk.css",
     "main.js": "/StateWiseCovidTracker/static/js/main.56e1f6eb.chunk.js",
     "main.js.map": "/StateWiseCovidTracker/static/js/main.56e1f6eb.chunk.js.map",
     "runtime-main.js": "/StateWiseCovidTracker/static/js/runtime-main.8162e6ef.js",
@@ -8,13 +8,13 @@
     "static/js/2.bcec19a2.chunk.js": "/StateWiseCovidTracker/static/js/2.bcec19a2.chunk.js",
     "static/js/2.bcec19a2.chunk.js.map": "/StateWiseCovidTracker/static/js/2.bcec19a2.chunk.js.map",
     "index.html": "/StateWiseCovidTracker/index.html",
-    "static/css/main.be991bb2.chunk.css.map": "/StateWiseCovidTracker/static/css/main.be991bb2.chunk.css.map",
+    "static/css/main.4f8be89b.chunk.css.map": "/StateWiseCovidTracker/static/css/main.4f8be89b.chunk.css.map",
     "static/js/2.bcec19a2.chunk.js.LICENSE.txt": "/StateWiseCovidTracker/static/js/2.bcec19a2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8162e6ef.js",
     "static/js/2.bcec19a2.chunk.js",
-    "static/css/main.be991bb2.chunk.css",
+    "static/css/main.4f8be89b.chunk.css",
     "static/js/main.56e1f6eb.chunk.js"
   ]
 }
